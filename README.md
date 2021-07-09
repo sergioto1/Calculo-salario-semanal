@@ -3,10 +3,10 @@ Calcular salario semanal teniendo en cuenta si se hicieron horas extras.
 
 En una empresa se requiere calcular el salario semanal de cada uno de los obreros que
 laboran en ella. El salario se obtiene de la siguiente forma:
-• Si el obrero trabaja 20 horas o menos se le paga Valor de la hora ganada por hora
-• Si trabaja entre de 21 horas y 40 horas se le paga al doble del valor de la hora
+- Si el obrero trabaja 20 horas o menos se le paga Valor de la hora ganada por hora
+- Si trabaja entre de 21 horas y 40 horas se le paga al doble del valor de la hora
 pagada por hora y Las primeras 20 horas valor de la hora.
-• Si trabaja más de 40 horas se le pagara al triple del valor de la hora pagada por
+- Si trabaja más de 40 horas se le pagara al triple del valor de la hora pagada por
 hora, las primeras 20 horas se pagan a valor la hora, las siguientes 20 horas al
 doble del valor de la hora.
 Usted se asignó como programador para realizar dos funciones, la primera funcion debe
