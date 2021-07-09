@@ -18,7 +18,7 @@ La segunda función debe recibir el diccionario cargado, ya con los datos de los
 semana y valor total a pagar (Valor calculado según requerimiento) por empleado:
 Ejemplo los resultados como se muestra a continuación :
 Ejemplo: para tres (3) trabajadores 
-• Entrada
+- Entrada
 Empleados={}
 Empleados[111]=(10,10000,0)
 Empleados[222]=(22,10000,0)
@@ -27,7 +27,7 @@ Sueldo = CalculoNomina(Empleado)
 imprimir(Empleados)
 print('El mejor sueldo es ${:5,}'.format(Sueldo))
 
-• Salida
+- Salida
 Codigo  Horas   Valor hora  Valor a pagar
 111      10       10,000      100,000
 222      22       10,000      240,000
