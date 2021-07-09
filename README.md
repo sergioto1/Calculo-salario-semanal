@@ -29,7 +29,7 @@ print('El mejor sueldo es ${:5,}'.format(Sueldo))
 
 - Salida
 Codigo  Horas   Valor hora  Valor a pagar
- 111      10       10,000      100,000
- 222      22       10,000      240,000
- 333      52       10,000      960,000
+\n111      10       10,000      100,000
+\n222      22       10,000      240,000
+\n333      52       10,000      960,000
 El mejor sueldo es $960,000
